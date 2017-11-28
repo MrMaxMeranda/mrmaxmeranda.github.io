@@ -16,9 +16,9 @@
 title: Lair of MaxMeranda
 email: mrmaxmeranda@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-        Personal home of MrMaxMeranda. Where Linux secrets are shared. 
+        Lair of MrMaxMeranda: Where secrets are shared. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mrmaxmeranda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maxmeranda
 github_username:  MrMaxMeranda
 
