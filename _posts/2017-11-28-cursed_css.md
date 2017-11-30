@@ -4,30 +4,28 @@ title: Cursed CSS
 date: 2017-11-28
 categories: rant
 ---
-It's interesting mingling with people that do <em>similar</em> things. In doing
-so, you easily come across people that really <em>get up your nose</em> when it
-comes to things that you like, but they <em>don't</em>.
+It's interesting mingling with people that have <em>similar</em> interests. In
+doing so, you can easily come across people that really <em>get up your
+nose</em> when it comes to your own personal taste, but their pet hates.
 
-So I had someone talking about how terrible CSS was. Yes, this guy had a lot to
-say, and I am not entirely sure why he felt this way. Without going into
-particulars, he was right about most of his argument, but only part where I
-disagreed was where he thought because of all the quirks and inconsistencies it
-was a terrible language.
+So I crossed someone talking about how terrible CSS is. Yes, this person had a
+lot to say, and for the most part, a lot of what he presented did make sense.
+Without going into particulars, he was right about most of what he presented.
+So really, the only part which I disagreed with was where he concluded that it
+was a terrible markup because of these quirks and inconsistencies.
+
+(In his particular case, he didn't give me the impression that he was a CSS
+'veteran'.)
 
 So I'll give you my own personal take on not what I feel about "terrible"
-languages.
+languages (and in this case it's a 'markup' rather than a language).
 
-Hey, who am I? I have only been doing computers for over 30 years. I would like
-to point out that had I had a terrible attitude to what is not so great, and
-decide to avoid it, I'm sure that I will be out of the computer business very
-quickly.
+This has reminded me of all kinds of people that have a message to others about
+their complaints with PHP, Python, JavaScript, Java, C, HTML, BASH, Go, and the
+list goes on and on. It's my opinion that whatever language/markup there is out
+there, it will be a problem with it as far as some people are concerned.
 
-It doesn't end with CSS either. I have had people complain about PHP, Python,
-JavaScript, Java, C, HTML, BASH, Go, and the list goes on and on. It's my
-opinion that whatever language/markup there is out there, it will be a problem
-with it as far as some people are concerned.
-
-Why should be end at languages and markups? Let's talk about how Linux is
+Why should we end at languages and markups? Let's talk about how Linux is
 rubbish, and how systemd is an evil Windows cancer in Linux that is going to
 take over everyone's computer. Or what about how the GNOME desktop does terrible
 things to your computer and spies on you? It's too bad if you believe that I am
