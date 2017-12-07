@@ -20,10 +20,10 @@ was a terrible markup because of these quirks and inconsistencies.
 So I'll give you my own personal take on not what I feel about "terrible"
 languages (and in this case it's a 'markup' rather than a language).
 
-This has reminded me of all kinds of people that have a message to others about
-their complaints with PHP, Python, JavaScript, Java, C, HTML, BASH, Go, and the
-list goes on and on. It's my opinion that whatever language/markup there is out
-there, it will be a problem with it as far as some people are concerned.
+It reminds me of all the imperfections I have both read and heard of languages
+(and markups) such as PHP, Python, JavaScript, Java, C, HTML, BASH, Go, and even
+BASIC. It seems odd, but whatever language/markup there is out there, it will be
+a problem with it.
 
 Why should we end at languages and markups? Let's talk about how Linux is
 rubbish, and how systemd is an evil Windows cancer in Linux that is going to
@@ -32,7 +32,7 @@ things to your computer and spies on you? It's too bad if you believe that I am
 making these things up.
 
 Yes, it doesn't matter what it is, someone has got to say something terrible
-about it because of one small fact: <strong>haters are gonna be haters</strong>.
+about it because of one small fact: <strong>haters are gonna hate</strong>.
 
 I'm not writing these things to <em>take on the world of haters</em> or have a
 rant, but just sharing with the interwebs how I deal with these things. After
