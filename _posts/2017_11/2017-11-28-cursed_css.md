@@ -4,9 +4,9 @@ title: Cursed CSS
 date: 2017-11-28
 categories: rant
 ---
-It's interesting mingling with people that have <em>similar</em> interests. In
-doing so, you can easily come across people that really <em>get up your
-nose</em> when it comes to your own personal taste, but their pet hates.
+It's interesting when we mingle with people that have <em>similar</em>
+interests. In doing so, we can easily come across people that really <em>get up
+our nose</em> when it comes to our personal taste, and their pet hates.
 
 So I crossed someone talking about how terrible CSS is. Yes, this person had a
 lot to say, and for the most part, a lot of what he presented did make sense.
