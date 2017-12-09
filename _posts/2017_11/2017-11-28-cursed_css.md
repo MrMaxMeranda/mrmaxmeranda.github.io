@@ -10,12 +10,10 @@ our nose</em> when it comes to our personal taste, and their pet hates.
 
 So I crossed someone talking about how terrible CSS is. Yes, this person had a
 lot to say, and for the most part, a lot of what he presented did make sense.
-Without going into particulars, he was right about most of what he presented.
-So really, the only part which I disagreed with was where he concluded that it
-was a terrible markup because of these quirks and inconsistencies.
-
-(In his particular case, he didn't give me the impression that he was a CSS
-'veteran'.)
+Without going into particulars, he relatively accurate <strong>IF</strong> you
+weren't a CSS veteran. So to be honest, the only part which I disagreed with was
+where he concluded that it was a terrible markup because of quirks and
+inconsistencies.
 
 So I'll give you my own personal take on not what I feel about "terrible"
 languages (and in this case it's a 'markup' rather than a language).
